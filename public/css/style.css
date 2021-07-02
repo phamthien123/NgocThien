@@ -1,0 +1,305 @@
+header
+{
+    text-align: right;
+    padding-right: 7cm;
+    color: gray;
+    padding-top: 10px;
+}
+.A{
+    padding-left: 6cm;
+    padding-right: 7cm;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+.B{
+    padding-right: 8cm;
+    padding-top: 20px;
+    color: gray;
+}
+.C{
+    padding-top: 20px;
+    color: gray;
+}
+.fa-envelope
+{
+    font-size: 20px;
+    padding-right: 15px;
+}
+.fa-phone-alt{
+    font-size: 20px;
+    padding-right: 15px;
+}
+.d
+{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.E{
+text-align: center;
+}
+.E1
+{
+    padding-right: 20px;
+}
+.F{
+    text-align: left;
+}
+.L{
+    text-align: center;
+}
+.L1{
+    padding-right: 20px;
+}
+.col-sm-2
+{
+    margin: 200px;
+}
+.V{
+    color: #ffbb02;
+}
+.fa-utensils
+{
+    color: black;
+    
+}
+.O{
+    text-align: center;
+} 
+.O1{
+    padding-right: 20px;
+}
+.T{
+  text-align: center;
+}
+.T1{
+    padding-right: 20px;
+}
+.card{
+    text-align: center;
+    padding-top: 70px;
+}
+.op{
+    display: flex;
+    padding-left: 20px;
+}
+.op1{
+    padding-left: 20px;
+    display: flex;
+    padding-top: 20px;
+
+}
+.io{
+    padding-right: 10px;
+}
+.op2{
+    padding-left: 40%;
+}
+.op3{
+    padding-left: 45%;
+}
+.row{
+    display: flex;
+    padding-bottom: 50px;
+}
+.col-sm-3
+{
+    margin: auto;
+}
+.col-sm-2{
+    margin: auto;
+}
+.box{
+    height: 100px;
+    display: flex;
+}
+.fas{
+    margin: auto;
+    font-size: 30px;
+}
+.BOX1{
+    display: flex;
+}
+.h4{
+    margin: 15px;
+}
+.box2{
+    display: flex;
+    padding-bottom: 50px;
+}
+.p2{
+    margin: 10px;
+}
+.h21{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+h1{
+   padding-top: 50px;
+   padding-bottom: 30px;
+} 
+.box3{
+    margin: 50px;
+}
+.box31{
+    padding-bottom: 20px;
+}
+.box32{
+    padding-bottom: 20px;
+}
+.P1{
+    padding-bottom: 30px;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+.h41{
+    text-align: center;
+    padding-top: 50px;
+}
+.Abc{
+    background-color: #f7c439;
+    text-align: center;
+    padding: 5px;
+}
+.h56{
+    color: white;
+}
+.p23{
+    padding-top: 90px;
+    color: white;
+    text-align: center;
+    background-image:  url(../images/800x580.jpg);
+    background-repeat:  no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 70vh;
+}
+.now
+{
+    color: white;
+    border: 2px solid #f7c439;; 
+    padding: 1px 10px ;
+    background-color: #f7c439;;
+}
+.icon11{
+    margin: auto;
+    padding-bottom: 50px;
+}
+.p113{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.col-sm-4{
+    text-align: center;
+}
+.hinh1b{
+    padding-bottom: 20px;
+  margin: auto;
+}
+.M{
+    padding-top: 70px;
+}
+.hinh16{
+    margin: 50px;
+    padding-top: 15px;
+}
+.icon23{
+    border: 2px solid;
+    padding: 4px;
+    background-color: black;  
+    padding-bottom: 10px;  
+}
+.icon24{
+    border: 1px solid white;
+    padding :2px 40px;
+    padding-top: 10px;  
+}
+.t1{
+    padding-bottom: 20px;
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+    border-bottom: white 1px  solid;
+}
+.t2
+{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.t3
+{
+    color: #ffbb02;
+    text-align: center;
+}
+.col-12{
+    padding-top: 50px;
+}
+.col-12
+{
+    padding-top: 50px;
+    margin: auto;   
+    
+}
+.t22{
+    padding-top: 90px;
+    color: white;
+    text-align: center;
+    background-image:  url(../images/800x610\ \(1\).jpg);
+    background-repeat:  no-repeat;
+    width: 100%;
+    background-size: 100%;
+    height: 70vh;
+}
+.hinh0{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.p0{
+    font-style: oblique;
+}
+.ame{
+    color: #ffbb02;
+}
+.jk{
+    text-align: center;
+    padding-top: 50px;
+}
+.t19{
+    border-bottom: 1px solid gray;
+}
+.fb{
+    padding-top: 50px;
+    text-align: center;
+}
+.twich{
+    padding-left: 10px;
+}
+.iter{
+    padding-left: 10px;
+}
+.tf{
+    padding-left: 10px;
+}
+.fb1
+{
+    padding-left: 10px;
+}
+.ko{
+    text-align: center;
+    padding-top: 30px;
+    color: gray;
+}
+.lorem{
+    color: #666666;
+}
+
+
+   
+
+
+
+
